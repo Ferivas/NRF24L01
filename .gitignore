@@ -1,0 +1,6 @@
+
+*.dbg
+*.obj
+*.rpt
+.pio/
+.vscode/.browse.c_cpp.db*
